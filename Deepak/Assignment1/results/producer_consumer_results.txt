@@ -1,0 +1,149 @@
+
+============================================================
+PERFORMANCE ANALYSIS RESULTS
+Implementation: ProducerConsumer (Queue)
+Timestamp: 2025-11-27 17:51:36
+============================================================
+
+--- Basic Statistics ---
+Queue Capacity: 5
+Items Produced: 20
+Items Consumed: 20
+Source Container Size: 20
+Destination Container Size: 20
+Max Queue Size Reached: 5
+
+--- Timing Analysis ---
+Total Execution Time: 3075.39 ms
+Average Time per Item: 153.77 ms
+Total Producer Wait Time: 197.77 ms
+Total Consumer Wait Time: 0.53 ms
+Average Producer Wait per Item: 9.89 ms
+Average Consumer Wait per Item: 0.03 ms
+
+--- Queue Utilization ---
+Queue Utilization Rate: 100.00%
+Queue Efficiency: High
+
+--- Data Integrity Analysis ---
+Data Match: ✓ PASS
+Count Match: ✓ PASS
+No Data Loss: ✓ PASS
+
+--- Thread Synchronization Analysis ---
+Producer-Consumer Balance: ✓ Balanced
+Blocking Behavior: ✓ Working (threads blocked when needed)
+
+============================================================
+
+
+============================================================
+PERFORMANCE ANALYSIS RESULTS
+Implementation: ProducerConsumer (Queue)
+Timestamp: 2025-11-27 17:51:36
+============================================================
+
+--- Basic Statistics ---
+Queue Capacity: 5
+Items Produced: 0
+Items Consumed: 0
+Source Container Size: 0
+Destination Container Size: 0
+Max Queue Size Reached: 0
+
+--- Timing Analysis ---
+Total Execution Time: 0.42 ms
+Total Producer Wait Time: 0.00 ms
+Total Consumer Wait Time: 0.00 ms
+
+--- Queue Utilization ---
+Queue Utilization Rate: 0.00%
+Queue Efficiency: Low
+
+--- Data Integrity Analysis ---
+Data Match: ✓ PASS
+Count Match: ✓ PASS
+No Data Loss: ✓ PASS
+
+--- Thread Synchronization Analysis ---
+Producer-Consumer Balance: ✓ Balanced
+Blocking Behavior: ⚠ No blocking detected
+
+============================================================
+
+
+============================================================
+PERFORMANCE ANALYSIS RESULTS
+Implementation: ProducerConsumer (Queue)
+Timestamp: 2025-11-27 17:51:36
+============================================================
+
+--- Basic Statistics ---
+Queue Capacity: 5
+Items Produced: 1
+Items Consumed: 1
+Source Container Size: 1
+Destination Container Size: 1
+Max Queue Size Reached: 1
+
+--- Timing Analysis ---
+Total Execution Time: 153.48 ms
+Average Time per Item: 153.48 ms
+Total Producer Wait Time: 0.01 ms
+Total Consumer Wait Time: 0.01 ms
+Average Producer Wait per Item: 0.01 ms
+Average Consumer Wait per Item: 0.01 ms
+
+--- Queue Utilization ---
+Queue Utilization Rate: 20.00%
+Queue Efficiency: Low
+
+--- Data Integrity Analysis ---
+Data Match: ✓ PASS
+Count Match: ✓ PASS
+No Data Loss: ✓ PASS
+
+--- Thread Synchronization Analysis ---
+Producer-Consumer Balance: ✓ Balanced
+Blocking Behavior: ✓ Working (threads blocked when needed)
+
+============================================================
+
+
+============================================================
+PERFORMANCE ANALYSIS RESULTS
+Implementation: ProducerConsumer (Queue)
+Timestamp: 2025-11-27 17:51:43
+============================================================
+
+--- Basic Statistics ---
+Queue Capacity: 100
+Items Produced: 50
+Items Consumed: 50
+Source Container Size: 50
+Destination Container Size: 50
+Max Queue Size Reached: 16
+
+--- Timing Analysis ---
+Total Execution Time: 7671.43 ms
+Average Time per Item: 153.43 ms
+Total Producer Wait Time: 1.15 ms
+Total Consumer Wait Time: 1.37 ms
+Average Producer Wait per Item: 0.02 ms
+Average Consumer Wait per Item: 0.03 ms
+
+--- Queue Utilization ---
+Queue Utilization Rate: 16.00%
+Queue Efficiency: Low
+
+--- Data Integrity Analysis ---
+Data Match: ✓ PASS
+Count Match: ✓ PASS
+No Data Loss: ✓ PASS
+
+--- Thread Synchronization Analysis ---
+Producer-Consumer Balance: ✓ Balanced
+Blocking Behavior: ✓ Working (threads blocked when needed)
+
+============================================================
+
