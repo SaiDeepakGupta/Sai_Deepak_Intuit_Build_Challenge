@@ -1,3 +1,0 @@
-# Python requirements for Assignment 2
-# No external dependencies required - uses only standard library
-
